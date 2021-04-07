@@ -1,4 +1,4 @@
-# mybooksmemory
+# MyBooksMemory
 Mobile app to manage books and discover actualities.
 
 ## Website
