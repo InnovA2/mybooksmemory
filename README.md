@@ -64,7 +64,7 @@ Technologies used:
 
 ## :link: Public links
 
-<img src="https://user-images.githubusercontent.com/39911545/114082419-01fcac80-98ae-11eb-8272-7a60cff4af0e.png" alt="MyBooksMemory" width="25%"/>
+<img src="https://user-images.githubusercontent.com/39911545/116376428-889f0c80-a810-11eb-8355-32c038658855.png" alt="MyBooksMemory" width="45%"/>
 
 - MyBooksMemoryFront: [https://my.booksmemory.net](https://my.booksmemory.net)
 - Discord de MyBooksMemory: [https://discord.gg/NpfbyG3](https://discord.gg/NpfbyG3)
